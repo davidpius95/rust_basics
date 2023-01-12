@@ -2,7 +2,7 @@
 
 
 pub fn run() {
-greeting("hello", "jane");
+	greeting("hello", "jane");
 
 	// Bind function value to variable
 	let get_sum = add(5,5);
